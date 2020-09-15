@@ -1,0 +1,160 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Kobe Bryant - v1.0_data" version="1.3.0" audacityversion="2.4.2" sel0="141.7365543894" sel1="141.7365543894" vpos="0" h="0.0000000000" zoom="9.7152072444" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="major_brand" value="dash"/>
+		<tag name="Software" value="Lavf57.56.101"/>
+		<tag name="minor_version" value="0"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+	</tags>
+	<wavetrack name="def of greatness" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.412538" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1492055">
+				<waveblock start="0">
+					<simpleblockfile filename="e0800108.au" len="261039" min="-0.485411" max="0.670838" rms="0.055316"/>
+				</waveblock>
+				<waveblock start="261039">
+					<simpleblockfile filename="e0800553.au" len="262144" min="-0.2261" max="0.332917" rms="0.032995"/>
+				</waveblock>
+				<waveblock start="523183">
+					<simpleblockfile filename="e0800a84.au" len="262144" min="-0.249033" max="0.416024" rms="0.035703"/>
+				</waveblock>
+				<waveblock start="785327">
+					<simpleblockfile filename="e0800199.au" len="262144" min="-0.19944" max="0.31536" rms="0.027147"/>
+				</waveblock>
+				<waveblock start="1047471">
+					<simpleblockfile filename="e0800456.au" len="262144" min="-0.317499" max="0.318805" rms="0.030969"/>
+				</waveblock>
+				<waveblock start="1309615">
+					<simpleblockfile filename="e08000cb.au" len="182440" min="-0.2522" max="0.274614" rms="0.026561"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="def of greatness" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.412538" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1492055">
+				<waveblock start="0">
+					<simpleblockfile filename="e080061b.au" len="261039" min="-0.485411" max="0.670838" rms="0.055316"/>
+				</waveblock>
+				<waveblock start="261039">
+					<simpleblockfile filename="e0800631.au" len="262144" min="-0.2261" max="0.332917" rms="0.032995"/>
+				</waveblock>
+				<waveblock start="523183">
+					<simpleblockfile filename="e080071c.au" len="262144" min="-0.249033" max="0.416024" rms="0.035703"/>
+				</waveblock>
+				<waveblock start="785327">
+					<simpleblockfile filename="e080025c.au" len="262144" min="-0.19944" max="0.31536" rms="0.027147"/>
+				</waveblock>
+				<waveblock start="1047471">
+					<simpleblockfile filename="e0800ad0.au" len="262144" min="-0.317499" max="0.318805" rms="0.030969"/>
+				</waveblock>
+				<waveblock start="1309615">
+					<simpleblockfile filename="e08002bf.au" len="182440" min="-0.2522" max="0.274614" rms="0.026561"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name=" NBA Draft 1996" isSelected="0" height="142" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="0.199526" pan="0.0" colorindex="0">
+		<waveclip offset="35.32011750" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542172">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d78.au" len="167438" min="-0.9958" max="0.993172" rms="0.242838"/>
+				</waveblock>
+				<waveblock start="167438">
+					<simpleblockfile filename="e0808c6e.au" len="187367" min="-0.98273" max="0.988147" rms="0.200105"/>
+				</waveblock>
+				<waveblock start="354805">
+					<simpleblockfile filename="e08081f4.au" len="187367" min="-1.013837" max="1.002703" rms="0.301667"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name=" NBA Draft 1996" isSelected="0" height="158" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="0.199526" pan="0.0" colorindex="0">
+		<waveclip offset="35.32011750" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542172">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b3b.au" len="167438" min="-0.983458" max="1.010649" rms="0.245898"/>
+				</waveblock>
+				<waveblock start="167438">
+					<simpleblockfile filename="e0808446.au" len="187367" min="-0.987842" max="0.988519" rms="0.204346"/>
+				</waveblock>
+				<waveblock start="354805">
+					<simpleblockfile filename="e08081ee.au" len="187367" min="-0.991222" max="0.997093" rms="0.306043"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Archangel Sentinel - CMX" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2123469">
+				<waveblock start="0">
+					<simpleblockfile filename="e0802430.au" len="261615" min="-0.294822" max="0.253266" rms="0.041436"/>
+				</waveblock>
+				<waveblock start="261615">
+					<simpleblockfile filename="e0802a3d.au" len="262144" min="-0.249125" max="0.213728" rms="0.039145"/>
+				</waveblock>
+				<waveblock start="523759">
+					<simpleblockfile filename="e0802c6b.au" len="262144" min="-0.31572" max="0.334325" rms="0.038733"/>
+				</waveblock>
+				<waveblock start="785903">
+					<simpleblockfile filename="e08023d4.au" len="262144" min="-0.210772" max="0.198015" rms="0.040708"/>
+				</waveblock>
+				<waveblock start="1048047">
+					<simpleblockfile filename="e0802fba.au" len="262144" min="-0.224753" max="0.261436" rms="0.050386"/>
+				</waveblock>
+				<waveblock start="1310191">
+					<simpleblockfile filename="e0802d26.au" len="262144" min="-0.357216" max="0.379467" rms="0.078348"/>
+				</waveblock>
+				<waveblock start="1572335">
+					<simpleblockfile filename="e08026f6.au" len="262144" min="-0.441078" max="0.557563" rms="0.089262"/>
+				</waveblock>
+				<waveblock start="1834479">
+					<simpleblockfile filename="e0802921.au" len="144495" min="-0.565542" max="0.648246" rms="0.103917"/>
+				</waveblock>
+				<waveblock start="1978974">
+					<simpleblockfile filename="e0802a3b.au" len="144495" min="-0.384339" max="0.396871" rms="0.08894"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Archangel Sentinel - CMX" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2123469">
+				<waveblock start="0">
+					<simpleblockfile filename="e0802770.au" len="261615" min="-0.224761" max="0.259137" rms="0.036952"/>
+				</waveblock>
+				<waveblock start="261615">
+					<simpleblockfile filename="e08028de.au" len="262144" min="-0.2153" max="0.207807" rms="0.031339"/>
+				</waveblock>
+				<waveblock start="523759">
+					<simpleblockfile filename="e0802122.au" len="262144" min="-0.244599" max="0.239989" rms="0.035962"/>
+				</waveblock>
+				<waveblock start="785903">
+					<simpleblockfile filename="e0802454.au" len="262144" min="-0.148219" max="0.175977" rms="0.036571"/>
+				</waveblock>
+				<waveblock start="1048047">
+					<simpleblockfile filename="e0802ae4.au" len="262144" min="-0.240313" max="0.216083" rms="0.045205"/>
+				</waveblock>
+				<waveblock start="1310191">
+					<simpleblockfile filename="e0802fa0.au" len="262144" min="-0.392445" max="0.312225" rms="0.077403"/>
+				</waveblock>
+				<waveblock start="1572335">
+					<simpleblockfile filename="e0802d18.au" len="262144" min="-0.372264" max="0.4856" rms="0.085126"/>
+				</waveblock>
+				<waveblock start="1834479">
+					<simpleblockfile filename="e0802158.au" len="144495" min="-0.510628" max="0.492044" rms="0.101334"/>
+				</waveblock>
+				<waveblock start="1978974">
+					<simpleblockfile filename="e0802de2.au" len="144495" min="-0.5207" max="0.598495" rms="0.095219"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
